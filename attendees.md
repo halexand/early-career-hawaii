@@ -21,7 +21,7 @@
 1. [Gao Wang](http://home.uchicago.edu/gaow), University of Chicago
 1. [Garret Christensen](http://www.ocf.berkeley.edu/~garret), UC Berkeley
 1. [Harish Doraiswamy](http://www.harishd.com), New York University
-1. [Harriet Alexander](halexand.github.com), UC Davis
+1. [Harriet Alexander](http://halexand.github.io), UC Davis
 1. Heewook Lee, Carnegie Mellon University
 1. [Henry Senyondo](http://weecology.org/user/30), University of Florida
 1. [Jaclyn Taroni](www.jaclyn-taroni.com), University of Pennsylvania
